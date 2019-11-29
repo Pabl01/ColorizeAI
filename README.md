@@ -15,7 +15,7 @@
 
 ## Step 2 : Running the code
 
-* Go to Google Collaboratory and import the Notebook (.ipnyb).
+* Go to Google Collaboratory and import the Notebook (.ipynb).
 
 * By default, the training process will be run. If you don't want, you can change the training_process variable to False in the Hyper-Parameters.
 
