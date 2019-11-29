@@ -10,7 +10,7 @@
 
 * Go to your Drive and create a "IA - Colorize" folder.
 
-* In this folder, import all the folders included in the repository (Dataset, Checkpoint)
+* In this folder, import all the folders included in the repository (Data, Checkpoint)
 
 
 ## Step 2 : Running the code
