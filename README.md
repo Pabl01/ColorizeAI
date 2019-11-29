@@ -10,17 +10,17 @@
 
 * Go to your Drive and create a "IA - Colorize" folder.
 
-* In this folder, import all the folders included in the repository (Dataset, Checkpoint)
+* In this folder, import all the folders included in the repository (Data, Checkpoint)
 
 
 ## Step 2 : Running the code
 
-* Go to Google Collaboratory and import the Notebook (.ipnyb).
+* Go to Google Collaboratory and import the Notebook (.ipynb).
 
-* By default, the training process will be run. If you don't want, you can change the training_process variable to False in the Hyper-Parameters.
+* By default, the training process will be run. If you don't want, you can change the training_process variable to False in the Hyper-Parameters block (number 3).
 
 * Execute all the code.
 
 ## Step 3 : Show results
 
-* In the /Dataset/result folder, you will find the resulting images.
+* In the *IA - Colorize/data/output/* folder, you will find the resulting images.
