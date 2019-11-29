@@ -23,4 +23,4 @@
 
 ## Step 3 : Show results
 
-* In the /Dataset/result folder, you will find the resulting images.
+* In the "IA - Colorize/data/output/" folder, you will find the resulting images.
