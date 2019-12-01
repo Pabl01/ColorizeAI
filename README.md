@@ -1,5 +1,5 @@
 # CS470 - Introduction to Artificial Intelligence
-## Project : Coloring black & white images and video
+## Project : Colorizing grayscale images
 **Authors** : Ayoub Mellah 20196411, Quentin Nieloud 20196414, Malek Neila Rostom 20196507, Pablo Chabance 20196417
 
 **Paper** : Deep Koalarization: Image colorization using CNNs and Inception-Resnet-v2
